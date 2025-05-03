@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bendusy-pollinations-mcp-badge.png)](https://mseep.ai/app/bendusy-pollinations-mcp)
+
 # Pollinations MCP 服务器
 
 <div align="center">
